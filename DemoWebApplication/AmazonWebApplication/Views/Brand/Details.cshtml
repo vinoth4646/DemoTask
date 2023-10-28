@@ -1,0 +1,60 @@
+﻿@model Brand
+<div class="container">
+    <div class="card">
+        <div class="card-header text-uppercase">
+            Brand Details
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-8">
+                    <div class="row mb-3">
+                        <div class="col-md-4">
+                            <p class="card-text text-uppercase"><strong>Id</strong></p>
+                        </div>
+                        <div class="col-md-8">
+                            <p class="card-text">: @Model.EmpId</p>
+                        </div>
+
+                    </div>
+                    <div class="row mb-3">
+                        <div class="col-md-4 text-uppercase">
+                            <p class="card-text text-uppercase"><strong>Name</strong></p>
+                        </div>
+                        <div class="col-md-8">
+                            <p class="card-text">: @Model.EmpName</p>
+                        </div>
+
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4 text-uppercase">
+                            <p class="card-text text-uppercase"><strong>Gender</strong></p>
+                        </div>
+
+                        <div class="col-md-8">
+                            <p class="card-text">: @Model.Gender</p>
+                        </div>
+
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4 text-uppercase">
+                            <p class="card-text text-uppercase"><strong>Age</strong></p>
+                        </div>
+
+                        <div class="col-md-8">
+                            <p class="card-text">: @Model.Age</p>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-4">
+                    <a asp-controller="Brand" asp-action="Index" class="btn btn-danger text-center">Back</a>
+                </div>
+               
+            </div>
+        </div>
+    </div>
+
+</div>

@@ -1,0 +1,39 @@
+﻿@model Brand
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+               <h2 class="text-uppercase">Create Brand</h2>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12 border-1 border">
+            <form method="post" enctype="multipart/form-data">
+                <div class="mb-3 " >
+                    <label asp-for="@Model.EmpName" class="form-label"></label>
+                    <input asp-for="@Model.EmpName" class="form-control" />
+                    <span asp-validation-for="@Model.EmpName" class="text-danger"></span>
+                   
+                </div>
+                <div class="mb-3">
+                    <label asp-for="@Model.Gender" class="form-label"></label>
+                    <input asp-for="@Model.Gender" class="form-control" />
+                    
+                </div>
+                <<div class="mb-3">
+                    <label asp-for="@Model.Age" class="form-label"></label>
+                    <input asp-for="@Model.Age" class="form-control" />
+                </div>
+                <div class="mb-3">
+                  <a asp-controller="Brand" asp-action="Index" class="btn btn-danger">Back</a>
+                   <button type="submit" class="btn btn-success">Create</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial"></partial>
+}

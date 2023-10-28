@@ -1,0 +1,365 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AmazonWebApplication.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AmazonWebApplication.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\images\\brand\\008f87f0-1fe4-4e46-bc86-a4095e9a1c17.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\008f87f0-1fe4-4e46-bc86-a4095e9a1c17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\images\\brand\\0c8ef7eb-f0bc-4008-9da3-99e61dcb6847.PNG",
+      "PackagePath": "staticwebassets\\images\\brand\\0c8ef7eb-f0bc-4008-9da3-99e61dcb6847.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\images\\brand\\0fbc0c32-92d6-47b0-bf64-b0e40fa69886.PNG",
+      "PackagePath": "staticwebassets\\images\\brand\\0fbc0c32-92d6-47b0-bf64-b0e40fa69886.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\images\\brand\\2e5cc763-5047-4663-8767-c67a8eb53c5b.PNG",
+      "PackagePath": "staticwebassets\\images\\brand\\2e5cc763-5047-4663-8767-c67a8eb53c5b.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\images\\brand\\31b2899a-2176-411e-ad09-5be141794628.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\31b2899a-2176-411e-ad09-5be141794628.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\images\\brand\\3b9cfdba-5fb3-4702-91d4-756d783eb900.PNG",
+      "PackagePath": "staticwebassets\\images\\brand\\3b9cfdba-5fb3-4702-91d4-756d783eb900.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\images\\brand\\4f8e57b6-000f-4236-b9a1-2845ca1c6eed.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\4f8e57b6-000f-4236-b9a1-2845ca1c6eed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\images\\brand\\65ce1741-d687-42e5-938c-fced049d5388.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\65ce1741-d687-42e5-938c-fced049d5388.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\images\\brand\\66f74cec-51e3-46f8-b2a8-0f0901c6bd3a.PNG",
+      "PackagePath": "staticwebassets\\images\\brand\\66f74cec-51e3-46f8-b2a8-0f0901c6bd3a.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\images\\brand\\8a3eae74-0e44-4646-965f-5fffc441aedf.PNG",
+      "PackagePath": "staticwebassets\\images\\brand\\8a3eae74-0e44-4646-965f-5fffc441aedf.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\images\\brand\\8effc9d8-b363-4f82-971b-d320a4d98cac.PNG",
+      "PackagePath": "staticwebassets\\images\\brand\\8effc9d8-b363-4f82-971b-d320a4d98cac.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\images\\brand\\90b2c114-7f2b-4af4-8ffe-44f6c548e800.PNG",
+      "PackagePath": "staticwebassets\\images\\brand\\90b2c114-7f2b-4af4-8ffe-44f6c548e800.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\images\\brand\\99753c91-ccc8-4ecf-ac92-592eca222188.PNG",
+      "PackagePath": "staticwebassets\\images\\brand\\99753c91-ccc8-4ecf-ac92-592eca222188.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\images\\brand\\a3879f22-a6b9-4ac6-adb0-6b8d1814af7c.PNG",
+      "PackagePath": "staticwebassets\\images\\brand\\a3879f22-a6b9-4ac6-adb0-6b8d1814af7c.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\images\\brand\\adbbf5e4-bfd5-41fa-ab1f-dabf7f232b06.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\adbbf5e4-bfd5-41fa-ab1f-dabf7f232b06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\images\\brand\\b37c4850-7bfc-4e23-a6fc-fadfbc3c3a9e.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\b37c4850-7bfc-4e23-a6fc-fadfbc3c3a9e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\images\\brand\\c5e7bfb8-1fd2-4590-9f30-357d759685c5.PNG",
+      "PackagePath": "staticwebassets\\images\\brand\\c5e7bfb8-1fd2-4590-9f30-357d759685c5.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\images\\brand\\c7843d52-fa79-4c52-9596-677de9d43d21.png",
+      "PackagePath": "staticwebassets\\images\\brand\\c7843d52-fa79-4c52-9596-677de9d43d21.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\images\\brand\\d2b4b0ce-1cb4-4497-a1ac-d2e538ace9cc.PNG",
+      "PackagePath": "staticwebassets\\images\\brand\\d2b4b0ce-1cb4-4497-a1ac-d2e538ace9cc.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\images\\brand\\e1a20871-2564-4177-adb1-8aba984ef1ea.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\e1a20871-2564-4177-adb1-8aba984ef1ea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\images\\brand\\eb9bcaf6-84e2-48f8-9222-6c7a64759cc7.PNG",
+      "PackagePath": "staticwebassets\\images\\brand\\eb9bcaf6-84e2-48f8-9222-6c7a64759cc7.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\images\\brand\\f4bc394b-ef65-4428-8180-8f3a98d646d4.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\f4bc394b-ef65-4428-8180-8f3a98d646d4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\images\\brand\\f5ef225e-66d2-42ef-949c-573715faadeb.PNG",
+      "PackagePath": "staticwebassets\\images\\brand\\f5ef225e-66d2-42ef-949c-573715faadeb.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\images\\brand\\f989e29c-7643-4361-b40d-f65bd1fd97bb.PNG",
+      "PackagePath": "staticwebassets\\images\\brand\\f989e29c-7643-4361-b40d-f65bd1fd97bb.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\images\\brand\\fa0c0568-d766-4222-a9d2-bc59b806b533.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\fa0c0568-d766-4222-a9d2-bc59b806b533.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\AmazonWebApplication\\AmazonWebApplication\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.AmazonWebApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.AmazonWebApplication.props",
+      "PackagePath": "build\\AmazonWebApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.AmazonWebApplication.props",
+      "PackagePath": "buildMultiTargeting\\AmazonWebApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.AmazonWebApplication.props",
+      "PackagePath": "buildTransitive\\AmazonWebApplication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
